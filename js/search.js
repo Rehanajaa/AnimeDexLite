@@ -1,6 +1,6 @@
 // Api urls
 
-const ProxyApi = "https://us2.proxysite.com/process.php?d=rS90FdCOF7HjHDp1X5722sN53VE%3D&b=1&f=norefer"
+const ProxyApi = "https://p2.hosteagle.club/__cpi.php?s=Q05rb0oxUjA5WmtybzZ6LzBIOGt0bDVOTFdrdkxZQUttV3pjc3VHU3F6TGZjNUpCSEhMM0xsTGNMTWVRMVgvaUtuZFZvTmdNWXVGcEFQWHgwNmt5QmpjOUVnRlhzUG1zUFA0ZmRXMFRZSUU9&r=aHR0cHM6Ly9wMi5ob3N0ZWFnbGUuY2x1Yi8%2FX19jcG89YUhSMGNITTZMeTl2ZEdGcmRXUmxjM1V1WTJ4dmRXUQ%3D%3D&__cpo=1"
 const searchapi = "/search/";
 
 // Api Server Manager
