@@ -1,6 +1,6 @@
 // Api urls
 
-const ProxyApi = "https://proxy.techzbots1.workers.dev/?u="
+const ProxyApi = "https://us2.proxysite.com/process.php?d=rS90FdCOF7HjHDp1X5722sN53VE%3D&b=1&f=norefer"
 const animeapi = "/anime/";
 const episodeapi = "/episode/";
 const dlapi = "/download/";
