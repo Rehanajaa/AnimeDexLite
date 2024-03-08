@@ -5,7 +5,7 @@ const searchapi = "/search/";
 
 // Api Server Manager
 
-const AvailableServers = ['https://otakudesu-unofficial-api.rzkfyn.xyz/v1/', 'https://aniyoi-api.vercel.app/', 'https://wajik-anime-api.vercel.app/']
+const AvailableServers = ['https://otakudesu-unofficial-api.rzkfyn.xyz/v1/', '', '']
 
 function getApiServer() {
     return AvailableServers[Math.floor(Math.random() * AvailableServers.length)]
