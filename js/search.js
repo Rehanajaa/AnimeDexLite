@@ -1,6 +1,6 @@
 // Api urls
 
-const ProxyApi = "https://otakudesu-unofficial-api.rzkfyn.xyz/v1/"
+const ProxyApi = "https://us2.proxysite.com/process.php?d=rS90FdCOF7HjHDp1X5722sN53VE%3D&b=1&f=norefer"
 const searchapi = "/search/";
 
 // Api Server Manager
